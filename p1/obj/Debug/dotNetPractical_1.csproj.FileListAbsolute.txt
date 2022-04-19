@@ -1,0 +1,6 @@
+E:\dotNet\dotNetPractical_1\bin\Debug\dotNetPractical_1.exe.config
+E:\dotNet\dotNetPractical_1\bin\Debug\dotNetPractical_1.exe
+E:\dotNet\dotNetPractical_1\bin\Debug\dotNetPractical_1.pdb
+E:\dotNet\dotNetPractical_1\obj\Debug\dotNetPractical_1.csproj.CoreCompileInputs.cache
+E:\dotNet\dotNetPractical_1\obj\Debug\dotNetPractical_1.exe
+E:\dotNet\dotNetPractical_1\obj\Debug\dotNetPractical_1.pdb
